@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- whilst making a [Chess Engine](https://github.com/endermn/Cpp-Chess-Ai)
+- 🥥 whilst making a [Chess Engine](https://github.com/endermn/Cpp-Chess-Ai)
 
 - 🤝 I’m looking for help with [realizing my Pong game into a multiplayer game](https://github.com/endermn/Pong)
 
