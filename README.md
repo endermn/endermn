@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Gevla</h1>
 <h3 align="center">Backend developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on [my Chess Bot](https://github.com/endermn/Cpp-Chess-Ai)
+- 🔭 I’m currently working on [my Terminal assistant](https://github.com/endermn/gev-ai)
 
-- 🌱 I’m currently learning **Go and Kafka**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any go projects really**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **go and c++**
 
 - 📫 How to reach me **viktorboyadjiev@gmail.com**
-
-- ⚡ Fun fact **I can be a bit clueless sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
